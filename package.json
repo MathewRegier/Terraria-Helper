@@ -1,0 +1,14 @@
+{
+  "name": "terraria-helper",
+  "version": "1.0.0",
+  "description": "A Discord bot that helps with Terraria questions using GPT-4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "openai": "^4.28.0"
+  }
+} 
